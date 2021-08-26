@@ -1,3 +1,4 @@
+//In this example, we are selecting document values in a certain hierarchy
 using System;
 using System.Collections.Generic;
 using System.Linq;
