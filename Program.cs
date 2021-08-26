@@ -1,3 +1,4 @@
+//In this example, we get data from an XML file for currency conversion (RUB)
 using System;
 using System.Collections.Generic;
 using System.Linq;
