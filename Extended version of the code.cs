@@ -40,8 +40,7 @@ class Program
                             }
                             if (childnode.Name == "Nominal")
                             {
-                                Console.WriteLine($"Номинал: {FieldoneFrint.SelectSingleNode("Nominal").InnerText}");
-                                
+                                Console.WriteLine($"Номинал: {FieldoneFrint.SelectSingleNode("Nominal").InnerText}");                                
                             }
                         }
                         break;                   
